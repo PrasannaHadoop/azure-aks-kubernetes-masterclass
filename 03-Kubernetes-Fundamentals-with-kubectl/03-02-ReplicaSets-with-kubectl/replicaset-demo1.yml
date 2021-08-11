@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: my-helloworld-app
-        image: dockerlakshmi86/mynginx_image1:v2-release
+        image: dockerlakshmi86/mynginx_image1:v1.0001-release
