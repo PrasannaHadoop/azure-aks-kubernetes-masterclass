@@ -16,8 +16,4 @@ spec:
     spec:
       containers:
       - name: my-helloworld-app
-<<<<<<< HEAD
-        image: dockerlakshmi86/docexplore:v1
-=======
         image: stacksimplify/kube-helloworld:1.0.0
->>>>>>> 7a4cd3796ebbbf175a527d36b007965411eec065
